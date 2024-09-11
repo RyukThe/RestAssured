@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-13T10:25:01 IST" name="Default suite" finished-at="2023-07-13T10:25:06 IST" duration-ms="4751">
+    <groups>
+    </groups>
+    <test started-at="2023-07-13T10:25:01 IST" name="Default test" finished-at="2023-07-13T10:25:06 IST" duration-ms="4751">
+      <class name="RestAssured_01.HTTPREQUEST_GET">
+        <test-method signature="getUser()[pri:0, instance:RestAssured_01.HTTPREQUEST_GET@741a8937]" started-at="2023-07-13T10:25:01 IST" name="getUser" finished-at="2023-07-13T10:25:06 IST" duration-ms="4673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- RestAssured_01.HTTPREQUEST_GET -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

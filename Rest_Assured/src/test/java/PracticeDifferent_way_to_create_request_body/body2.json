@@ -1,0 +1,20 @@
+{
+        
+        "name": "Micky",
+        "location": "Indonesia",
+        "phone": "847189457",
+        "courses": [
+            "API",
+            "SQL"
+        ]
+    },
+    {
+    
+        "name": "vijay",
+        "location": "India",
+        "phone": "847189457",
+        "courses": [
+            "API",
+            "SQL"
+        ]
+    }
